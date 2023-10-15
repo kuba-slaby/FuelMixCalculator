@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fuel mix calculator</string>
+    <string name="petrol_amount">Petrol amount (in l):</string>
+    <string name="mix_ratio">Mix ratio:</string>
+    <string name="oil_amount">Oil amount (in ml):</string>
+    <string-array name="ratios">
+        <item>1:15</item>
+        <item>1:20</item>
+        <item>1:25</item>
+        <item>1:33</item>
+        <item>1:40</item>
+        <item>1:50</item>
+    </string-array>
+</resources>

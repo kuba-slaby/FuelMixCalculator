@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka palivovej zmesi</string>
+    <string name="petrol_amount">Množstvo benzínu (v l):</string>
+    <string name="mix_ratio">Pomer zmesi:</string>
+    <string name="oil_amount">Množstvo oleja (v ml):</string>
+</resources>
